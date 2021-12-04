@@ -26,6 +26,7 @@ Generate Pyrogram String Session Using this bot.
 ## Support Group:
 <a href="https://t.me/Xmarty_Support"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
 
-
+## ᴄʀᴇᴅɪᴛs
+ᴛʜɪs ᴄᴏᴅᴇ ɪɴ ᴍᴀᴅᴇ ʙʏ [xᴍᴀʀᴛʏ](https://t.me/xmarty_Support)
 
 
