@@ -6,7 +6,7 @@ Generate Pyrogram String Session Using this bot.
 </p>
 
 ## Demo Bot:
-<a href="https://t.me/st_session_gr_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Tg_session_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
 - API_HASH
