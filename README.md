@@ -5,7 +5,7 @@ Generate Pyrogram String Session Using this bot.
   <img src="https://telegra.ph/file/8848147cd4fb6af2f094f.jpg">
 </p>
 
-## Demo Bot:
+## sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ:
 <a href="https://t.me/Tg_session_bot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 
 ## Configs:
