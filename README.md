@@ -2,7 +2,7 @@
 Generate Pyrogram String Session Using this bot.
 
 <p align="center">
-  <img src="https://telegra.ph/file/3a4f7abbe00d7ce3940a5.jpg">
+  <img src="https://telegra.ph/file/8848147cd4fb6af2f094f.jpg">
 </p>
 
 ## Demo Bot:
